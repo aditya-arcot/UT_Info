@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UT Quick Info</string>
+
+    <string name="cns">College of Natural Sciences</string>
+    <string name="eng">School of Engineering</string>
+    <string name="lib_arts">College of Liberal Arts</string>
+    <string name="fine_arts">College of Fine Arts</string>
+    <string name="info">School of Information</string>
+    <string name="edu">College of Education</string>
+    <string name="pharma">College of Pharmacy</string>
+    <string name="geo">School of Geosciences</string>
+    <string name="nurse">School of Nursing</string>
+    <string name="social">School of Social Work</string>
+    <string name="business">School of Business</string>
+    <string name="arch">School of Architecture</string>
+    <string name="comm">College of Communication</string>
+
+    <string name="SchoolInfoSlot">Schools Information Enter Here</string>
+    <string name="ut_image">UT IMAGE</string>
+
+    <string name="nurse_dean">Alexa Stuifbergen, PhD, RN, FAAN</string>
+    <string name="nurse_majors">No specified majors.</string>
+
+    <string name="back"><![CDATA[<---]]></string>
+</resources>
